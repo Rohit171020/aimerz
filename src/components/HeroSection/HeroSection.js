@@ -40,7 +40,7 @@ const HeroSection = () => {
         </div>
         <div className="hero-image">
           <img
-            src="https://via.placeholder.com/600x400" // Replace with your actual image URL
+            src="datascience.jpg" // Replace with your actual image URL
             alt="Learning Platform"
           />
         </div>
